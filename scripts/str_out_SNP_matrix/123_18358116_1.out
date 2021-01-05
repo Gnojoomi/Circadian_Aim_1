@@ -1,0 +1,23 @@
+==========================================
+SLURM_JOB_ID = 18358440
+SLURM_NODELIST = c11-91
+==========================================
+Name                : MakeSNP_Matrix
+User                : gnojoomi
+Partition           : med
+Nodes               : c11-91
+Cores               : 3
+GPUs                : 0
+State               : COMPLETED
+Submit              : 2020-02-23T20:06:40
+Start               : 2020-02-23T20:13:36
+End                 : 2020-02-23T20:13:37
+Reserved walltime   : 1-00:00:00
+Used walltime       :   00:00:01
+Used CPU time       : --
+% User (Computation): --
+% System (I/O)      : --
+Mem reserved        : 5G/node
+Max Mem used        : 0.00  (c11-91)
+Max Disk Write      : 0.00  (c11-91)
+Max Disk Read       : 0.00  (c11-91)

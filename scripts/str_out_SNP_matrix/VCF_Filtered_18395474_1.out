@@ -1,0 +1,19 @@
+Name                : MakeSNP_Matrix
+User                : gnojoomi
+Partition           : med
+Nodes               : c8-62
+Cores               : 3
+GPUs                : 0
+State               : COMPLETED
+Submit              : 2020-02-24T23:40:45
+Start               : 2020-02-24T23:40:46
+End                 : 2020-02-24T23:46:13
+Reserved walltime   : 1-00:00:00
+Used walltime       :   00:05:27
+Used CPU time       :   00:08:31
+% User (Computation): 91.10%
+% System (I/O)      :  8.90%
+Mem reserved        : 5G/node
+Max Mem used        : 11.90M (c8-62)
+Max Disk Write      : 10.24K (c8-62)
+Max Disk Read       : 1.56M (c8-62)

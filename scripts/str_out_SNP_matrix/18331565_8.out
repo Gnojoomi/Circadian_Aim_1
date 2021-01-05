@@ -1,0 +1,23 @@
+==========================================
+SLURM_JOB_ID = 18331574
+SLURM_NODELIST = c10-66
+==========================================
+Name                : MakeSNP_Matrix
+User                : gnojoomi
+Partition           : med
+Nodes               : c10-66
+Cores               : 3
+GPUs                : 0
+State               : COMPLETED
+Submit              : 2020-02-21T17:25:12
+Start               : 2020-02-21T17:25:19
+End                 : 2020-02-21T20:01:17
+Reserved walltime   : 3-00:00:00
+Used walltime       :   02:35:58
+Used CPU time       :   02:40:48
+% User (Computation): 99.27%
+% System (I/O)      :  0.73%
+Mem reserved        : 5G/node
+Max Mem used        : 6.32M (c10-66)
+Max Disk Write      : 10.24K (c10-66)
+Max Disk Read       : 1.56M (c10-66)
